@@ -1,0 +1,722 @@
+Blue-eyes White Dragon:dragon:3000
+Mystical Elf:spellcaster:800
+Hitotsu-me Giant:beast-warrior:1200
+Baby Dragon:dragon:1200
+Ryu-kishin:fiend:1000
+Feral Imp:fiend:1300
+Winged Dragon #1:dragon:1400
+Mushroom Man:plant:800
+Shadow Specter:zombie:500
+Blackland Fire Dragon:dragon:1500
+Sword Arm of Dragon:dinosaur:1750
+Swamp Battleguard:warrior:1800
+Tyhone:winged beast:1200
+Battle Steer:beast-warrior:1800
+Flame Swordsman:warrior:1800
+Time Wizard:spellcaster:500
+Right Leg of the Forbidden One:spellcaster:200
+Left Leg of the Forbidden One:spellcaster:200
+Right Arm of the Forbidden One:spellcaster:200
+Left Arm of the Forbidden One:spellcaster:200
+Exodia the Forbidden:spellcaster:1000
+Summoned Skull:fiend:2500
+The Wicked Worm Beast:beast:1400
+Skull Servant:zombie:300
+Horn Imp:fiend:1300
+Battle Ox:beast-warrior:1700
+Beaver Warrior:beast-warrior:1200
+Rock Ogre Grotto #1:rock:800
+Mountain Warrior:beast-warrior:600
+Zombie Warrior:zombie:1200
+Koumori Dragon:dragon:1500
+Two-headed King Rex:dinosaur:1600
+Judge Man:warrior:2200
+Saggi the Dark Clown:spellcaster:600
+Dark Magician:spellcaster:2500
+The Snake Hair:zombie:1500
+Gaia the Dragon Champion:dragon:2600
+Gaia the Fierce Knight:warrior:2300
+Curse of Dragon:dragon:2000
+Dragon Piper:pyro:200
+Celtic Guardian:warrior:1400
+Illusionist Faceless Mage:spellcaster:1200
+Karbonala Warrior:warrior:1500
+Rogue Doll:spellcaster:1600
+Oscillo Hero #2:thunder:1000
+Griffore:beast:1200
+Torike:beast:1200
+Sangan:fiend:1000
+Big Insect:insect:1200
+Basic Insect:insect:500
+Armored Lizard:reptile:1500
+Hercules Beetle:insect:1500
+Killer Needle:insect:1200
+Gokibore:insect:1200
+Giant Flea:insect:1500
+Larvae Moth:insect:500
+Great Moth:insect:2600
+Kuriboh:fiend:300
+Mammoth Graveyard:dinosaur:1200
+Great White:fish:1600
+Wolf:beast:1200
+Harpie Lady:winged beast:1300
+Harpie Lady Sisters:winged beast:1950
+Tiger Axe:beast-warrior:1300
+Silver Fang:beast:1200
+Kojikocy:warrior:1500
+Perfectly Ultimate Great Moth:insect:3500
+Garoozis:beast-warrior:1800
+Thousand Dragon:dragon:2400
+Fiend Kraken:aqua:1200
+Jellyfish:aqua:1200
+Cocoon of Evolution:insect:0
+Kairyu-Shin:sea serpent:1800
+Giant Soldier of Stone:rock:1300
+Man-eating Plant:plant:800
+Krokodilus:reptile:1100
+Grappler:reptile:1300
+Axe Raider:warrior:1700
+Megazowler:dinosaur:1800
+Uraby:dinosaur:1500
+Crawling Dragon #2:dinosaur:1600
+Red-eyes B. Dragon:dragon:2400
+Castle of Dark Illusions:fiend:920
+Reaper of the Cards:fiend:1380
+King of Yamimakai:fiend:2000
+Barox:fiend:1380
+Dark Chimera:fiend:1610
+Metal Guardian:fiend:1150
+Catapult Turtle:aqua:1000
+Gyakutenno Megami:fairy:1800
+Mystic Horseman:beast:1300
+Rabid Horseman:beast-warrior:2000
+Zanki:warrior:1500
+Crawling Dragon:dragon:1600
+Crass Clown:fiend:1350
+Armored Zombie:zombie:1500
+Dragon Zombie:zombie:1600
+Clown Zombie:zombie:1350
+Pumpking the King of Ghosts:zombie:1800
+Battle Warrior:warrior:700
+Wings of Wicked Flame:pyro:700
+Mask of Darkness:fiend:900
+Job-Change Mirror:fiend:800
+Curtain of the Dark Ones:spellcaster:600
+Tomozaurus:dinosaur:500
+Spirit of the Winds:spellcaster:1700
+Kageningen:warrior:800
+Graveyard and the Hand of Invitation:zombie:700
+Goddess with the Third Eye:fairy:1200
+Hero of the East:warrior:1100
+Doma The Angel of Silence:fairy:1600
+That Which Feeds on Life:fiend:1200
+Dark Gray:beast:800
+White Magical Hat:spellcaster:1000
+Kamion Wizard:spellcaster:1300
+Nightmare Scorpion:insect:900
+Spirit of the Books:winged beast:1400
+Supporter in the Shadows:warrior:1000
+Trial of Nightmares:fiend:1300
+Dream Clown:warrior:1200
+Sleeping Lion:beast:700
+Yamatano Dragon Scroll:dragon:900
+Dark Plant:plant:300
+Ancient Tool:machine:1700
+Faith Bird:winged beast:1500
+Orion the Battle King:fairy:1800
+Ansatsu:warrior:1700
+LaMoon:spellcaster:1200
+Nemuriko:spellcaster:800
+Weather Control:fairy:600
+Octoberser:aqua:1600
+The 13th Grave:zombie:1200
+Charubin the Fire Knight:pyro:1100
+Mystical Capture Chain:fairy:700
+Fiend's Hand:zombie:600
+Witty Phantom:fiend:1400
+Mystery Hand:fiend:500
+Dragon Statue:warrior:1100
+Blue-eyed Silver Zombie:zombie:900
+Toad Master:aqua:1000
+Spiked Snail:insect:700
+Flame Manipulator:spellcaster:900
+Necrolancer the Timelord:spellcaster:800
+Djinn the Watcher of the Wind:spellcaster:700
+The Bewitching Phantom Thief:spellcaster:700
+Temple of Skulls:zombie:900
+Monster Egg:warrior:600
+The Shadow Who Controls the Dark:fiend:800
+Lord of the Lamp:fiend:1400
+Akihiron:aqua:1700
+Rhaimundos of the Red Sword:warrior:1200
+The Melting Red Shadow:aqua:500
+Dokuroizo the Grim Reaper:zombie:900
+Fire Reaper:zombie:700
+Larvas:beast:800
+Hard Armor:warrior:300
+Firegrass:plant:700
+Man Eater:plant:800
+Dig Beak:beast:500
+M-warrior #1:warrior:1000
+M-warrior #2:warrior:500
+Tainted Wisdom:fiend:1250
+Lisark:beast:1300
+Lord of Zemia:fiend:1300
+The Judgment Hand:warrior:1400
+Mysterious Puppeteer:warrior:1000
+Ancient Jar:rock:400
+Darkfire Dragon:dragon:1500
+Dark King of the Abyss:fiend:1200
+Spirit of the Harp:fairy:800
+Big Eye:fiend:1200
+Armaill:warrior:700
+Dark Prisoner:fiend:600
+Hurricail:spellcaster:900
+Ancient Brain:fiend:1000
+Fire Eye:pyro:800
+Monsturtle:aqua:800
+Claw Reacher:fiend:1000
+Phantom Dewan:spellcaster:700
+Arlownay:plant:800
+Dark Shade:fiend:1000
+Masked Clown:warrior:500
+Lucky Trinket:spellcaster:600
+Genin:spellcaster:600
+Eyearmor:warrior:600
+Fiend Refrection #2:winged beast:1100
+Gate Deeg:beast:700
+Synchar:beast:800
+Fusionist:beast:900
+Akakieisu:spellcaster:1000
+LALA Li-oon:thunder:600
+Key Mace:fairy:400
+Turtle Tiger:aqua:1000
+Terra the Terrible:fiend:1200
+Doron:warrior:900
+Arma Knight:aqua:1000
+Mech Mole Zombie:zombie:500
+Happy Lover:fairy:800
+Penguin Knight:aqua:900
+Petit Dragon:dragon:600
+Frenzied Panda:beast:1200
+Air Marmot of Nefariousness:beast:400
+Phantom Ghost:zombie:600
+Mabarrel:fiend:1700
+Dorover:aqua:900
+Twin Long Rods #1:aqua:900
+Droll Bird:winged beast:600
+Petit Angel:fairy:600
+Winged Cleaver:insect:700
+Hinotama Soul:pyro:600
+Kaminarikozou:thunder:700
+Meotoko:beast:700
+Aqua Madoor:spellcaster:1200
+Kagemusha of the Blue Flame:warrior:800
+Flame Ghost:zombie:1000
+Dryad:spellcaster:1200
+B. Skull Dragon:dragon:3200
+Two-mouth Darkruler:dinosaur:900
+Solitude:beast-warrior:1050
+Masked Sorcerer:spellcaster:900
+Kumootoko:insect:700
+Midnight Fiend:fiend:800
+Roaring Ocean Snake:aqua:2100
+Trap Master:warrior:500
+Fiend Sword:warrior:1400
+Skull Stalker:warrior:900
+Hitodenchak:aqua:600
+Wood Remains:zombie:1000
+Hourglass of Life:fairy:700
+Rare Fish:fish:1500
+Wood Clown:warrior:800
+Madjinn Gunn:fiend:600
+Dark Titan of Terror:fiend:1300
+Beautiful Headhuntress:warrior:1600
+Wodan the Resident of the Forest:warrior:900
+Guardian of the Labyrinth:warrior:1000
+Haniwa:rock:500
+Yashinoki:plant:800
+Vishwar Randi:warrior:900
+The Drdek:fiend:700
+Dark Assailant:zombie:1200
+Candle of Fate:fiend:600
+Water Element:aqua:900
+Dissolverock:rock:900
+Meda Bat:fiend:800
+One Who Hunts Souls:beast-warrior:1100
+Root Water:fish:900
+Master & Expert:beast:1200
+Water Omotics:aqua:1400
+Hyo:warrior:800
+Enchanting Mermaid:fish:1200
+Nekogal #1:beast:1100
+Angelwitch:spellcaster:800
+Embryonic Beast:fiend:500
+Prevent Rat:beast:500
+Dimensional Warrior:warrior:1200
+Stone Armadiller:rock:800
+Beastking of the Swamps:aqua:1000
+Ancient Sorcerer:spellcaster:1000
+Lunar Queen Elzaim:fairy:750
+Wicked Mirror:fiend:700
+The Little Swordsman of Aile:warrior:800
+Rock Ogre Grotto #2:rock:700
+Wing Egg Elf:fairy:500
+The Furious Sea King:aqua:800
+Princess of Tsurugi:warrior:900
+Unknown Warrior of Fiend:warrior:1000
+Sectarian of Secrets:spellcaster:700
+Versago the Destroyer:fiend:1100
+Wetha:aqua:1000
+Megirus Light:fiend:900
+Mavelus:winged beast:1300
+Ancient Tree of Enlightenment:plant:600
+Green Phantom King:plant:500
+Ground Attacker Bugroth:machine:1500
+Ray & Temperature:fairy:1000
+Gorgon Egg:fiend:300
+Petit Moth:insect:300
+King Fog:fiend:1000
+Protector of the Throne:warrior:800
+Mystic Clown:fiend:1500
+Mystical Sheep #2:beast:800
+Holograh:machine:1100
+Tao the Chanter:spellcaster:1200
+Serpent Marauder:reptile:700
+Gatekeeper:machine:1500
+Ogre of the Black Shadow:beast-warrior:1200
+Dark Artist:fiend:600
+Change Slime:aqua:400
+Moon Envoy:warrior:1100
+Fireyarou:pyro:1300
+Psychic Kappa:aqua:400
+Masaki the Legendary Swordsman:warrior:1100
+Dragoness the Wicked Knight:warrior:1200
+Bio Plant:fiend:600
+One-eyed Shield Dragon:dragon:700
+Cyber Soldier of Darkworld:machine:1400
+Wicked Dragon with the Ersatz Head:dragon:900
+Sonic Maid:warrior:1200
+Kurama:winged beast:800
+Legendary Sword::
+Sword of Dark Destruction::
+Dark Energy::
+Axe of Despair::
+Laser Cannon Armor::
+Insect Armor with Laser Cannon::
+Elf's Light::
+Beast Fangs::
+Steel Shell::
+Vile Germs::
+Black Pendant::
+Silver Bow and Arrow::
+Horn of Light::
+Horn of the Unicorn::
+Dragon Treasure::
+Electro-whip::
+Cyber Shield::
+Elegant Egotist::
+Mystical Moon::
+Stop Defense::
+Malevolent Nuzzler::
+Violet Crystal::
+Book of Secret Arts::
+Invigoration::
+Machine Conversion Factory::
+Raise Body Heat::
+Follow Wind::
+Power of Kaishin::
+Dragon Capture Jar::
+Forest::
+Wasteland::
+Mountain::
+Sogen::
+Umi::
+Yami::
+Dark Hole::
+Raigeki::
+Mooyan Curry::
+Red Medicine::
+Goblin's Secret Remedy::
+Soul of the Pure::
+Dian Keto the Cure Master::
+Sparks::
+Hinotama::
+Final Flame::
+Ookazi::
+Tremendous Fire::
+Swords of Revealing Light::
+Spellbinding Circle::
+Dark-piercing Light::
+Yaranzo:zombie:1300
+Kanan the Swordmistress:warrior:1400
+Takriminos:sea serpent:1500
+Stuffed Animal:warrior:1200
+Megasonic Eye:machine:1500
+Super War-lion:beast:2300
+Yamadron:dragon:1600
+Seiyaryu:dragon:2500
+Three-legged Zombies:zombie:1100
+Zera The Mant:fiend:2800
+Flying Penguin:aqua:1200
+Millennium Shield:warrior:0
+Fairy's Gift:spellcaster:1400
+Black Luster Soldier:warrior:3000
+Fiend's Mirror:fiend:2100
+Labyrinth Wall:rock:0
+Jirai Gumo:insect:2200
+Shadow Ghoul:zombie:1600
+Wall Shadow:warrior:1600
+Labyrinth Tank:machine:2400
+Sanga of the Thunder:thunder:2600
+Kazejin:spellcaster:2400
+Suijin:aqua:2500
+Gate Guardian:warrior:3750
+Dungeon Worm:insect:1800
+Monster Tamer:warrior:1800
+Ryu-kishin Powered:fiend:1600
+Swordstalker:warrior:2000
+La Jinn the Mystical Genie:fiend:1800
+Blue-eyes Ultimate Dragon:dragon:4500
+Toon Alligator:reptile:800
+Rude Kaiser:beast-warrior:1800
+Parrot Dragon:dragon:2000
+Dark Rabbit:beast:1100
+Bickuribox:fiend:2300
+Harpie's Pet Dragon:dragon:2000
+Mystic Lamp:spellcaster:400
+Pendulum Machine:machine:1750
+Giltia the D. Knight:warrior:1850
+Launcher Spider:machine:2200
+Zoa:fiend:2600
+Metalzoa:machine:3000
+Zone Eater:aqua:250
+Steel Scorpion:machine:250
+Dancing Elf:fairy:300
+Ocubeam:fairy:1550
+Leghul:insect:300
+Ooguchi:aqua:300
+Swordsman from a Foreign Land:warrior:250
+Emperor of the Land and Sea:reptile:1800
+Ushi Oni:fiend:2150
+Monster Eye:fiend:250
+Leogun:beast:1750
+Tatsunootoshigo:beast:1350
+Saber Slasher:machine:1450
+Yaiba Robo:machine:1000
+Machine King:machine:2200
+Giant Mech-soldier:machine:1750
+Metal Dragon:machine:1850
+Mechanical Spider:machine:400
+Bat:machine:300
+Giga-tech Wolf:machine:1200
+Cyber Soldier:machine:1500
+Shovel Crusher:machine:900
+Mechanicalchacer:machine:1850
+Blocker:machine:850
+Blast Juggler:machine:800
+Golgoil:machine:900
+Giganto:machine:1700
+Cyber-Stein:machine:700
+Cyber Commander:machine:750
+Jinzo #7:machine:500
+Dice Armadillo:machine:1650
+Sky Dragon:dragon:1900
+Thunder Dragon:thunder:1600
+Stone D.:rock:2000
+Kaiser Dragon:dragon:2300
+Magician of Faith:spellcaster:300
+Goddess of Whim:fairy:950
+Water Magician:spellcaster:1400
+Ice Water:aqua:1150
+Waterdragon Fairy:aqua:1100
+Ancient Elf:spellcaster:1450
+Beautiful Beast Trainer:warrior:1750
+Water Girl:aqua:1250
+White Dolphin:fish:500
+Deepsea Shark:fish:1900
+Metal Fish:machine:1600
+Bottom Dweller:fish:1650
+7 Colored Fish:fish:1800
+Mech Bass:machine:1800
+Aqua Dragon:sea serpent:2250
+Sea King Dragon:sea serpent:2000
+Turu-Purun:aqua:450
+Guardian of the Sea:aqua:1300
+Aqua Snake:aqua:1050
+Giant Red Seasnake:aqua:1800
+Spike Seadra:sea serpent:1600
+30,000-Year White Turtle:aqua:1250
+Kappa Avenger:aqua:1200
+Kanikabuto:aqua:650
+Zarigun:aqua:600
+Millennium Golem:rock:2000
+Destroyer Golem:rock:1500
+Barrel Rock:rock:1000
+Minomushi Warrior:warrior:1300
+Stone Ghost:rock:1200
+Kaminari Attack:thunder:1900
+Tripwire Beast:thunder:1200
+Bolt Escargot:thunder:1400
+Bolt Penguin:thunder:1100
+The Immortal of Thunder:thunder:1500
+Electric Snake:thunder:800
+Wing Eagle:winged beast:1800
+Punished Eagle:winged beast:2100
+Skull Red Bird:winged beast:1550
+Crimson Sunbird:winged beast:2300
+Queen Bird:winged beast:1200
+Armed Ninja:warrior:300
+Magical Ghost:zombie:1300
+Soul Hunter:fiend:2200
+Air Eater:fiend:2100
+Vermillion Sparrow:pyro:1900
+Sea Kamen:aqua:1100
+Sinister Serpent:reptile:300
+Ganigumo:insect:600
+Alinsection:insect:950
+Insect Soldiers of the Sky:insect:1000
+Cockroach Knight:insect:800
+Kuwagata α:insect:1250
+Burglar:beast:850
+Pragtical:dinosaur:1900
+Garvas:beast:2000
+Ameba:aqua:300
+Korogashi:insect:550
+Boo Koo:spellcaster:650
+Flower Wolf:beast:1800
+Rainbow Flower:plant:400
+Barrel Lily:plant:1100
+Needle Ball:fiend:750
+Peacock:winged beast:1700
+Hoshiningen:fairy:500
+Maha Vailo:spellcaster:1550
+Rainbow Marine Mermaid:fish:1550
+Musician King:spellcaster:1750
+Wilmee:beast:1000
+Yado Karu:aqua:900
+Morinphen:fiend:1550
+Kattapillar:insect:250
+Dragon Seeker:fiend:2100
+Man-eater Bug:insect:450
+D. Human:warrior:1300
+Turtle Raccoon:aqua:700
+Fungi of the Musk:fiend:400
+Prisman:rock:800
+Gale Dogra:insect:650
+Crazy Fish:fish:1600
+Cyber Saurus:machine:1800
+Bracchio-raidus:dinosaur:2200
+Laughing Flower:plant:900
+Bean Soldier:plant:1400
+Cannon Soldier:machine:1400
+Guardian of the Throne Room:machine:1650
+Brave Scizzar:machine:1300
+The Statue of Easter Island:rock:1100
+Muka Muka:rock:600
+Sand Stone:rock:1300
+Boulder Tortoise:aqua:1450
+Fire Kraken:aqua:1600
+Turtle Bird:aqua:1900
+Skullbird:winged beast:1900
+Monstrous Bird:winged beast:2000
+The Bistro Butcher:fiend:1800
+Star Boy:aqua:550
+Spirit of the Mountain:spellcaster:1300
+Neck Hunter:fiend:1750
+Milus Radiant:beast:300
+Togex:beast:1600
+Flame Cerebrus:pyro:2100
+Eldeen:spellcaster:950
+Mystical Sand:rock:2100
+Gemini Elf:spellcaster:1900
+Kwagar Hercules:insect:1900
+Minar:insect:800
+Kamakiriman:insect:1150
+Mechaleon:reptile:800
+Mega Thunderball:thunder:750
+Niwatori:winged beast:900
+Corroding Shark:zombie:1100
+Skelengel:fairy:900
+Hane-Hane:beast:450
+Misairuzame:fish:1400
+Tongyo:fish:1350
+Dharma Cannon:machine:900
+Skelgon:zombie:1700
+Wow Warrior:fish:1250
+Griggle:plant:350
+Bone Mouse:zombie:400
+Frog the Jam:aqua:700
+Behegon:aqua:1350
+Dark Elf:spellcaster:2000
+Winged Dragon #2:winged beast:1200
+Mushroom Man #2:warrior:1250
+Lava Battleguard:warrior:1550
+Tyhone #2:dragon:1700
+The Wandering Doomed:zombie:800
+Steel Ogre Grotto #1:machine:1400
+Pot the Trick:rock:400
+Oscillo Hero:warrior:1250
+Invader from Another Dimension:fiend:950
+Lesser Dragon:dragon:1200
+Needle Worm:insect:750
+Wretched Ghost of the Attic:fiend:550
+Great Mammoth of Goldfine:zombie:2200
+Man-eating Black Shark:fish:2100
+Yormungarde:reptile:1200
+Darkworld Thorns:plant:1200
+Anthrosaurus:dinosaur:1000
+Drooling Lizard:reptile:900
+Trakadon:dinosaur:1300
+B. Dragon Jungle King:dragon:2100
+Empress Judge:warrior:2100
+Little D:dinosaur:1100
+Witch of the Black Forest:spellcaster:1100
+Ancient One of the Deep Forest:beast:1800
+Giant Scorpion of the Tundra:insect:1100
+Crow Goblin:winged beast:1850
+Leo Wizard:spellcaster:1350
+Abyss Flower:plant:750
+Patrol Robo:machine:1100
+Takuhee:winged beast:1450
+Dark Witch:fairy:1800
+Weather Report:aqua:950
+Binding Chain:fairy:1000
+Mechanical Snail:machine:800
+Greenkappa:warrior:650
+Mon Larvas:beast:1300
+Living Vase:plant:900
+Tentacle Plant:plant:500
+Beaked Snake:reptile:800
+Morphing Jar:rock:700
+Muse-A:fairy:850
+Giant Turtle Who Feeds on Flames:aqua:1400
+Rose Spectre of Dunn:plant:2000
+Fiend Refrection #1:winged beast:1300
+Ghoul with an Appetite:zombie:1600
+Pale Beast:beast:1500
+Little Chimera:beast:600
+Violent Rain:aqua:1550
+Key Mace #2:fiend:1050
+Tenderness:fairy:700
+Penguin Soldier:aqua:750
+Fairy Dragon:dragon:1100
+Obese Marmot of Nefariousness:beast:750
+Liquid Beast:aqua:950
+Twin Long Rods #2:aqua:850
+Great Bill:beast:1250
+Shining Friendship:fairy:1300
+Bladefly:insect:600
+Electric Lizard:thunder:850
+Hiro's Shadow Scout:fiend:650
+Lady of Faith:spellcaster:1100
+Twin-headed Thunder Dragon:thunder:2800
+Hunter Spider:insect:1600
+Armored Starfish:aqua:850
+Hourglass of Courage:fairy:1100
+Marine Beast:fish:1700
+Warrior of Tradition:warrior:1900
+Rock Spirit:spellcaster:1650
+Snakeyashi:plant:1000
+Succubus Knight:warrior:1650
+Ill Witch:spellcaster:1600
+The Thing That Hides In the Mud:rock:1200
+High Tide Gyojin:aqua:1650
+Fairy of the Fountain:aqua:1600
+Amazon of the Seas:fish:1300
+Nekogal #2:beast-warrior:1900
+Witch's Apprentice:spellcaster:550
+Armored Rat:beast:950
+Ancient Lizard Warrior:reptile:1400
+Maiden of the Moonlight:spellcaster:1500
+Stone Ogre Grotto:rock:1600
+Winged Egg of New Life:fairy:1400
+Night Lizard:aqua:1150
+Queen's Double:warrior:350
+Blue-winged Crown:winged beast:1600
+Trent:plant:1500
+Queen of Autumn Leaves:plant:1800
+Amphibious Bugroth:aqua:1850
+Acid Crawler:insect:900
+Invader of the Throne:warrior:1350
+Mystical Sheep #1:beast:1150
+Disk Magician:machine:1350
+Flame Viper:pyro:400
+Royal Guard:machine:1900
+Gruesome Goo:aqua:1300
+Hyosube:aqua:1500
+Machine Attacker:machine:1600
+Hibikime:warrior:1450
+Whiptail Crow:fiend:1650
+Kunai with Chain::
+Magical Labyrinth::
+Warrior Elimination::
+Salamandra::
+Cursebreaker::
+Eternal Rest::
+Megamorph::
+Metalmorph::
+Winged Trumpeter::
+Stain Storm::
+Crush Card::
+Eradicating Aerosol::
+Breath of Light::
+Eternal Draught::
+Curse of Millennium Shield::
+Yamadron Ritual::
+Gate Guardian Ritual::
+Bright Castle::
+Shadow Spell::
+Black Luster Ritual::
+Zera Ritual::
+Harpie's Feather Duster::
+War-lion Ritual::
+Beastry Mirror Ritual::
+Ultimate Dragon::
+Commencement Dance::
+Hamburger Recipe::
+Revival of Sennen Genjin::
+Novox's Prayer::
+Curse of Tri-Horned Dragon::
+House of Adhesive Tape::
+Eatgaboon::
+Bear Trap::
+Invisible Wire::
+Acid Trap Hole::
+Widespread Ruin::
+Goblin Fan::
+Bad Reaction to Simochi::
+Reverse Trap::
+Fake Trap::
+Revived of Serpent Night Dragon::
+Turtle Oath::
+Contruct of Mask::
+Resurrection of Chakra::
+Puppet Ritual::
+Javelin Beetle Pact::
+Garma Sword Oath::
+Cosmo Queen's Prayer::
+Revival of Skeleton Rider::
+Fortress Whale's Oath::
+Performance of Sword:warrior:1950
+Hungry Burger:warrior:2000
+Sengenjin:beast-warrior:2750
+Skull Guardian:warrior:2050
+Tri-horned Dragon:dragon:2850
+Serpent Night Dragon:dragon:2350
+Skull Knight:spellcaster:2650
+Cosmo Queen:spellcaster:2900
+Chakra:fiend:2450
+Crab Turtle:aqua:2550
+Mikazukinoyaiba:dragon:2200
+Meteor Dragon:dragon:1800
+Meteor B. Dragon:dragon:3500
+Firewing Pegasus:beast:2250
+Psycho-Puppet:fiend:2000
+Garma Sword:warrior:2550
+Javelin Beetle:insect:2450
+Fortress Whale:fish:2350
+Dokurorider:zombie:1900
+Mask of Shine & Dark:spellcaster:2000
+Dark Magic Ritual::
+Magician of Black Chaos:spellcaster:2800
