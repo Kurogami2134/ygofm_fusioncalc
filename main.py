@@ -1,4 +1,4 @@
-from filewrappers import PSXRAMFileDescriptor as psxram
+from ModIO import PsxRamIO as psxram
 from struct import unpack
 from json import load
 from tkinter import *
