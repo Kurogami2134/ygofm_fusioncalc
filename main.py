@@ -69,7 +69,7 @@ def check(card1, card2):
 
 class Hand():
     def __init__(self, base_address):
-        self.ram = psxram("Yu-Gi-Oh! Forbidden Memories", int(base_address, 16))
+        self.ram = psxram(int(base_address, 16))
     
     @property
     def cards(self):
